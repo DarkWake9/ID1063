@@ -1,0 +1,3 @@
+
+printf("\nLightest \n%s %s %s %s %u year %u cm %u Kg\n", stdd1[k2[i][j]].first_name, stdd1[k2[i][j]].last_name, bloodgroup[stdd1[k2[i][j]].blood_type], branch[stdd1[k2[i][j]].branch], stdd1[k2[i][j]].year, stdd1[k2[i][j]].height, stdd1[k2[i][j]].weight);
+printf("\nHeaviest \n%s %s %s %s %u year %u cm %u Kg\n", stdd1[k1[i][j]].first_name, stdd1[k1[i][j]].last_name, bloodgroup[stdd1[k1[i][j]].blood_type], branch[stdd1[k1[i][j]].branch], stdd1[k1[i][j]].year, stdd1[k1[i][j]].height, stdd1[k1[i][j]].weight);
